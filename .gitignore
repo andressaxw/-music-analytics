@@ -1,0 +1,9 @@
+# Arquivos executaveis
+*.exe
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# Arquivos de configuracao do editor
+.vscode/
